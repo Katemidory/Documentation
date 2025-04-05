@@ -1,4 +1,4 @@
-# Welcome to MkDocs
+# Welcome 
 
 Это моя первая страница
 
@@ -11,5 +11,5 @@
 ....
 
 
-а здесь --ссылка
+а здесь - ссылка
 [Referens API](https://api.documentat.io/editor/)
