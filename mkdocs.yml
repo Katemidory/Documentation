@@ -1,0 +1,7 @@
+site_name: Katyushina documentation
+site_description: Тестирую документирование через код
+theme: material
+
+nav: 
+  - Home: index.md
+  - About: about.md
